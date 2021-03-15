@@ -1,0 +1,19 @@
+{
+  "name": "sass-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JenniferR326/sass-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JenniferR326/sass-practice/issues"
+  },
+  "homepage": "https://github.com/JenniferR326/sass-practice#readme"
+}
